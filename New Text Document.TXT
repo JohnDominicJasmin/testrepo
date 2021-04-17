@@ -5,4 +5,7 @@ pero
 d ko
 na 
 alam 
+main 
+method
+hehek
 
